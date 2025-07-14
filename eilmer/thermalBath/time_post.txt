@@ -1,0 +1,5100 @@
+Time index 0000 timing:
+real 1.81
+user 1.80
+sys 0.05
+---------------------------
+Time index 0001 timing:
+real 1.85
+user 1.84
+sys 0.06
+---------------------------
+Time index 0010 timing:
+real 0.11
+user 0.11
+sys 0.01
+---------------------------
+Time index 0020 timing:
+real 0.93
+user 0.93
+sys 0.04
+---------------------------
+Time index 0030 timing:
+real 0.49
+user 0.48
+sys 0.03
+---------------------------
+Time index 0040 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 0050 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 0060 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 0070 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 0080 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 0090 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 0100 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 0200 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 0300 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 0400 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 0500 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 0600 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 0700 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 0800 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 0900 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 1000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 10000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 100000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 1000000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 101000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 102000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 103000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 104000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 105000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 106000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 107000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 108000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 109000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 11000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 110000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 111000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 112000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 113000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 114000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 115000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 116000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 117000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 118000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 119000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 12000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 120000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 121000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 122000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 123000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 124000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 125000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 126000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 127000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 128000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 129000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 13000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 130000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 131000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 132000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 133000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 134000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 135000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 136000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 137000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 138000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 139000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 14000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 140000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 141000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 142000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 143000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 144000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 145000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 146000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 147000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 148000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 149000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 15000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 150000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 151000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 152000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 153000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 154000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 155000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 156000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 157000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 158000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 159000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 16000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 160000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 161000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 162000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 163000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 164000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 165000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 166000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 167000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 168000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 169000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 17000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 170000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 171000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 172000 timing:
+real 0.03
+user 0.03
+sys 0.00
+---------------------------
+Time index 173000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 174000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 175000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 176000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 177000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 178000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 179000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 18000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 180000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 181000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 182000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 183000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 184000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 185000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 186000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 187000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 188000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 189000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 19000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 190000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 191000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 192000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 193000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 194000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 195000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 196000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 197000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 198000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 199000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 2000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 20000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 200000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 201000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 202000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 203000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 204000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 205000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 206000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 207000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 208000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 209000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 21000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 210000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 211000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 212000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 213000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 214000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 215000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 216000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 217000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 218000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 219000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 22000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 220000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 221000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 222000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 223000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 224000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 225000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 226000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 227000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 228000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 229000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 23000 timing:
+real 0.03
+user 0.03
+sys 0.00
+---------------------------
+Time index 230000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 231000 timing:
+real 0.03
+user 0.03
+sys 0.00
+---------------------------
+Time index 232000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 233000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 234000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 235000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 236000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 237000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 238000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 239000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 24000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 240000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 241000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 242000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 243000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 244000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 245000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 246000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 247000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 248000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 249000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 25000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 250000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 251000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 252000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 253000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 254000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 255000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 256000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 257000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 258000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 259000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 26000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 260000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 261000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 262000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 263000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 264000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 265000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 266000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 267000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 268000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 269000 timing:
+real 0.02
+user 0.01
+sys 0.01
+---------------------------
+Time index 27000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 270000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 271000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 272000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 273000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 274000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 275000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 276000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 277000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 278000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 279000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 28000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 280000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 281000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 282000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 283000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 284000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 285000 timing:
+real 0.03
+user 0.02
+sys 0.00
+---------------------------
+Time index 286000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 287000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 288000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 289000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 29000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 290000 timing:
+real 0.03
+user 0.02
+sys 0.00
+---------------------------
+Time index 291000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 292000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 293000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 294000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 295000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 296000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 297000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 298000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 299000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 3000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 30000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 300000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 301000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 302000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 303000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 304000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 305000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 306000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 307000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 308000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 309000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 31000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 310000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 311000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 312000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 313000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 314000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 315000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 316000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 317000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 318000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 319000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 32000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 320000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 321000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 322000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 323000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 324000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 325000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 326000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 327000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 328000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 329000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 33000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 330000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 331000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 332000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 333000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 334000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 335000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 336000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 337000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 338000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 339000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 34000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 340000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 341000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 342000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 343000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 344000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 345000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 346000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 347000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 348000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 349000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 35000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 350000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 351000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 352000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 353000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 354000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 355000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 356000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 357000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 358000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 359000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 36000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 360000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 361000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 362000 timing:
+real 0.03
+user 0.03
+sys 0.00
+---------------------------
+Time index 363000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 364000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 365000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 366000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 367000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 368000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 369000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 37000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 370000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 371000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 372000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 373000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 374000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 375000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 376000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 377000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 378000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 379000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 38000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 380000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 381000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 382000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 383000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 384000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 385000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 386000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 387000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 388000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 389000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 39000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 390000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 391000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 392000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 393000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 394000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 395000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 396000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 397000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 398000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 399000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 4000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 40000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 400000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 401000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 402000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 403000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 404000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 405000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 406000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 407000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 408000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 409000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 41000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 410000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 411000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 412000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 413000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 414000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 415000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 416000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 417000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 418000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 419000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 42000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 420000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 421000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 422000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 423000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 424000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 425000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 426000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 427000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 428000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 429000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 43000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 430000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 431000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 432000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 433000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 434000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 435000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 436000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 437000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 438000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 439000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 44000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 440000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 441000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 442000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 443000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 444000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 445000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 446000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 447000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 448000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 449000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 45000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 450000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 451000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 452000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 453000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 454000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 455000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 456000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 457000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 458000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 459000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 46000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 460000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 461000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 462000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 463000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 464000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 465000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 466000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 467000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 468000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 469000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 47000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 470000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 471000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 472000 timing:
+real 0.03
+user 0.02
+sys 0.00
+---------------------------
+Time index 473000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 474000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 475000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 476000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 477000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 478000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 479000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 48000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 480000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 481000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 482000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 483000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 484000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 485000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 486000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 487000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 488000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 489000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 49000 timing:
+real 0.03
+user 0.03
+sys 0.00
+---------------------------
+Time index 490000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 491000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 492000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 493000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 494000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 495000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 496000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 497000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 498000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 499000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 5000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 50000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 500000 timing:
+real 0.02
+user 0.01
+sys 0.01
+---------------------------
+Time index 501000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 502000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 503000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 504000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 505000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 506000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 507000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 508000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 509000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 51000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 510000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 511000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 512000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 513000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 514000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 515000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 516000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 517000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 518000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 519000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 52000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 520000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 521000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 522000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 523000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 524000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 525000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 526000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 527000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 528000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 529000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 53000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 530000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 531000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 532000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 533000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 534000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 535000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 536000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 537000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 538000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 539000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 54000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 540000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 541000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 542000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 543000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 544000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 545000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 546000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 547000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 548000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 549000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 55000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 550000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 551000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 552000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 553000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 554000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 555000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 556000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 557000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 558000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 559000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 56000 timing:
+real 0.03
+user 0.03
+sys 0.00
+---------------------------
+Time index 560000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 561000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 562000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 563000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 564000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 565000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 566000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 567000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 568000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 569000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 57000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 570000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 571000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 572000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 573000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 574000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 575000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 576000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 577000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 578000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 579000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 58000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 580000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 581000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 582000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 583000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 584000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 585000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 586000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 587000 timing:
+real 0.03
+user 0.02
+sys 0.00
+---------------------------
+Time index 588000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 589000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 59000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 590000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 591000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 592000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 593000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 594000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 595000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 596000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 597000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 598000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 599000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 6000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 60000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 600000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 601000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 602000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 603000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 604000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 605000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 606000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 607000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 608000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 609000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 61000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 610000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 611000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 612000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 613000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 614000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 615000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 616000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 617000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 618000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 619000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 62000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 620000 timing:
+real 0.02
+user 0.01
+sys 0.01
+---------------------------
+Time index 621000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 622000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 623000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 624000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 625000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 626000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 627000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 628000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 629000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 63000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 630000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 631000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 632000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 633000 timing:
+real 0.03
+user 0.03
+sys 0.00
+---------------------------
+Time index 634000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 635000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 636000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 637000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 638000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 639000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 64000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 640000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 641000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 642000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 643000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 644000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 645000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 646000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 647000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 648000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 649000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 65000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 650000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 651000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 652000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 653000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 654000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 655000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 656000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 657000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 658000 timing:
+real 0.03
+user 0.02
+sys 0.00
+---------------------------
+Time index 659000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 66000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 660000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 661000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 662000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 663000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 664000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 665000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 666000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 667000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 668000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 669000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 67000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 670000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 671000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 672000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 673000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 674000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 675000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 676000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 677000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 678000 timing:
+real 0.03
+user 0.03
+sys 0.00
+---------------------------
+Time index 679000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 68000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 680000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 681000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 682000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 683000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 684000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 685000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 686000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 687000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 688000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 689000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 69000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 690000 timing:
+real 0.03
+user 0.02
+sys 0.00
+---------------------------
+Time index 691000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 692000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 693000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 694000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 695000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 696000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 697000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 698000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 699000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 7000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 70000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 700000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 701000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 702000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 703000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 704000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 705000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 706000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 707000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 708000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 709000 timing:
+real 0.03
+user 0.03
+sys 0.00
+---------------------------
+Time index 71000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 710000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 711000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 712000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 713000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 714000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 715000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 716000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 717000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 718000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 719000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 72000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 720000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 721000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 722000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 723000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 724000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 725000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 726000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 727000 timing:
+real 0.03
+user 0.02
+sys 0.01
+---------------------------
+Time index 728000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 729000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 73000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 730000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 731000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 732000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 733000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 734000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 735000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 736000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 737000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 738000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 739000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 74000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 740000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 741000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 742000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 743000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 744000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 745000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 746000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 747000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 748000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 749000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 75000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 750000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 751000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 752000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 753000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 754000 timing:
+real 0.03
+user 0.02
+sys 0.01
+---------------------------
+Time index 755000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 756000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 757000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 758000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 759000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 76000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 760000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 761000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 762000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 763000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 764000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 765000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 766000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 767000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 768000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 769000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 77000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 770000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 771000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 772000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 773000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 774000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 775000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 776000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 777000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 778000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 779000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 78000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 780000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 781000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 782000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 783000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 784000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 785000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 786000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 787000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 788000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 789000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 79000 timing:
+real 0.03
+user 0.02
+sys 0.00
+---------------------------
+Time index 790000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 791000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 792000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 793000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 794000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 795000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 796000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 797000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 798000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 799000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 8000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 80000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 800000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 801000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 802000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 803000 timing:
+real 0.03
+user 0.02
+sys 0.00
+---------------------------
+Time index 804000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 805000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 806000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 807000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 808000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 809000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 81000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 810000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 811000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 812000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 813000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 814000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 815000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 816000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 817000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 818000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 819000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 82000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 820000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 821000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 822000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 823000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 824000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 825000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 826000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 827000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 828000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 829000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 83000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 830000 timing:
+real 0.03
+user 0.03
+sys 0.00
+---------------------------
+Time index 831000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 832000 timing:
+real 0.03
+user 0.02
+sys 0.01
+---------------------------
+Time index 833000 timing:
+real 0.02
+user 0.01
+sys 0.00
+---------------------------
+Time index 834000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 835000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 836000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 837000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 838000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 839000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 84000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 840000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 841000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 842000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 843000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 844000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 845000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 846000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 847000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 848000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 849000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 85000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 850000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 851000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 852000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 853000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 854000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 855000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 856000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 857000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 858000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 859000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 86000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 860000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 861000 timing:
+real 0.03
+user 0.02
+sys 0.00
+---------------------------
+Time index 862000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 863000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 864000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 865000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 866000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 867000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 868000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 869000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 87000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 870000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 871000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 872000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 873000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 874000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 875000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 876000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 877000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 878000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 879000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 88000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 880000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 881000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 882000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 883000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 884000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 885000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 886000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 887000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 888000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 889000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 89000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 890000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 891000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 892000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 893000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 894000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 895000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 896000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 897000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 898000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 899000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 9000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 90000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 900000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 901000 timing:
+real 0.03
+user 0.03
+sys 0.00
+---------------------------
+Time index 902000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 903000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 904000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 905000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 906000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 907000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 908000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 909000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 91000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 910000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 911000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 912000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 913000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 914000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 915000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 916000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 917000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 918000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 919000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 92000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 920000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 921000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 922000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 923000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 924000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 925000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 926000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 927000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 928000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 929000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 93000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 930000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 931000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 932000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 933000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 934000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 935000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 936000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 937000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 938000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 939000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 94000 timing:
+real 0.02
+user 0.01
+sys 0.01
+---------------------------
+Time index 940000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 941000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 942000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 943000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 944000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 945000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 946000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 947000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 948000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 949000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 95000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 950000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 951000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 952000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 953000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 954000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 955000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 956000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 957000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 958000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 959000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 96000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 960000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 961000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 962000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 963000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 964000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 965000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 966000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 967000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 968000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 969000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 97000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 970000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 971000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 972000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 973000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 974000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 975000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 976000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 977000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 978000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 979000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 98000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 980000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 981000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 982000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 983000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 984000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 985000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 986000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 987000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 988000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 989000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 99000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 990000 timing:
+real 0.02
+user 0.02
+sys 0.01
+---------------------------
+Time index 991000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 992000 timing:
+real 0.02
+user 0.03
+sys 0.00
+---------------------------
+Time index 993000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 994000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 995000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 996000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 997000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------
+Time index 998000 timing:
+real 0.03
+user 0.03
+sys 0.00
+---------------------------
+Time index 999000 timing:
+real 0.02
+user 0.02
+sys 0.00
+---------------------------

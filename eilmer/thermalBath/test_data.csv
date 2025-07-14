@@ -1,0 +1,2 @@
+Cell ID,a,Cell Type,dt_chem,dt_therm,k,k_modes[0],k_t,massf[0]-N2,massf[1]-O2,massf[2]-N,massf[3]-O,massf[4]-NO,mu,mu_t,p,pos.x,pos.y,pos.z,rho,S,T,T_modes[0],u,u_modes[0],vel.vector_0,vel.vector_1,vel.vector_2,vel.vector_Magnitude,vel.x,vel.y,vel.z,volume
+0,1630.96,12,1e-08,-1,0.321477,0.0897579,0,0.719239,0.00033366,0.0663702,0.204651,0.00940658,0.000212731,0,4344.47,0.5,0.5,0.5,0.0022085,0,5435.4,5467.27,9.25242e+06,952936,0,3.95509e-14,0,3.95509e-14,0,3.95509e-14,0,1

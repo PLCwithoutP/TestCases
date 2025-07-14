@@ -1,0 +1,32 @@
+Eilmer 4.0 compressible-flow simulation code.
+Revision-id: feb8f26f
+Revision-date: Fri Jun 13 13:54:13 2025 +1000
+Compiler-name: ldc2
+Build-date: Fri Jun 13 02:47:45 PM UTC 2025
+Build-flavour: debug
+Profiling: omitted
+Capabilities: multi-species-gas multi-temperature-gas MHD turbulence.
+Parallelism: Shared-memory
+Begin post-processing with command-line arguments.
+  jobName: thermalBath
+  verbosityLevel: 1
+NOTE: shock detector is on.
+writing flow-solution VTK-XML files to directory "plot"
+  tindx= 0
+Done.
+Eilmer 4.0 compressible-flow simulation code.
+Revision-id: feb8f26f
+Revision-date: Fri Jun 13 13:54:13 2025 +1000
+Compiler-name: ldc2
+Build-date: Fri Jun 13 02:47:45 PM UTC 2025
+Build-flavour: debug
+Profiling: omitted
+Capabilities: multi-species-gas multi-temperature-gas MHD turbulence.
+Parallelism: Shared-memory
+Begin post-processing with command-line arguments.
+  jobName: thermalBath
+  verbosityLevel: 1
+NOTE: shock detector is on.
+writing flow-solution VTK-XML files to directory "plot"
+  tindx= 1
+Done.
